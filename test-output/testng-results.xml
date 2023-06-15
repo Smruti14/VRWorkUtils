@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-15T16:20:05 IST" name="Default suite" finished-at="2023-06-15T16:20:25 IST" duration-ms="19628">
+    <groups>
+    </groups>
+    <test started-at="2023-06-15T16:20:05 IST" name="Default test" finished-at="2023-06-15T16:20:25 IST" duration-ms="19628">
+      <class name="testCases.DispatchHousekeepingPage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.DispatchHousekeepingPage@55141def]" started-at="2023-06-15T16:20:05 IST" name="setup" finished-at="2023-06-15T16:20:24 IST" duration-ms="18924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyCheckHousekeepingUnitwithvalidResrvation()[pri:0, instance:testCases.DispatchHousekeepingPage@55141def]" started-at="2023-06-15T16:20:24 IST" name="verifyCheckHousekeepingUnitwithvalidResrvation" finished-at="2023-06-15T16:20:25 IST" duration-ms="614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCheckHousekeepingUnitwithvalidResrvation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.DispatchHousekeepingPage@55141def]" started-at="2023-06-15T16:20:25 IST" name="tearDown" finished-at="2023-06-15T16:20:25 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.DispatchHousekeepingPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -23,7 +23,7 @@ public class DispatchHousekeepingPage extends BaseClasslogin{
 		
 		String[] actions =new String[]{"Check In","Check out"};
 		
-		for (String action : actions) {
+		for (String action : actions) { 
 			dispatch.selectDate("15","JUNE","2023").selectUnitName("AM223C").selectActoinUnit(action);	
 		}		
 	
